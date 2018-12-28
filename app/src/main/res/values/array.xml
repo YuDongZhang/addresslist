@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="contacts">
+        <item>"阿东"</item>
+        <item>"白洁"</item>
+        <item>"陈霞"</item>
+        <item>"东哥"</item>
+        <item>"我"</item>
+        <item>"发哥"</item>
+        <item>"高杰"</item>
+        <item>"何曦"</item>
+        <item>"杰少"</item>
+        <item>"柯南"</item>
+        <item>"啦啦"</item>
+        <item>"妈妈"</item>
+        <item>"恩恩"</item>
+        <item>"哦"</item>
+        <item>"片"</item>
+        <item>"去"</item>
+        <item>"人"</item>
+        <item>"是"</item>
+        <item>"他"</item>
+        <item>"你"</item>
+        <item>"我"</item>
+    </array>
+</resources>
